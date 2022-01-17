@@ -1,1 +1,1 @@
-# tal-verbose-waddle
+$ python -m pip install requests
